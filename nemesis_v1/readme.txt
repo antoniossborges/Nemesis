@@ -1,0 +1,1 @@
+Velocidade no zigzag em 80, com tempo calculado para isso
